@@ -4,7 +4,12 @@
 npm install @angular/cdk
 ```
 
+# Ver demo en:
+https://stackblitz.com/edit/br-angular7-ejemplo
 
+![alt text](https://raw.githubusercontent.com/Brayan-Restrepo/Angular-7/master/src/assets/capturas/Captura.PNG)
+![alt text](https://raw.githubusercontent.com/Brayan-Restrepo/Angular-7/master/src/assets/capturas/Captura2.PNG)
+![alt text](https://raw.githubusercontent.com/Brayan-Restrepo/Angular-7/master/src/assets/capturas/Captura3.PNG)
 
 # Virtualscroll
 
