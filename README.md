@@ -3,6 +3,10 @@
 ```
 npm install @angular/cdk
 ```
+# Doc Nuevas funciones de angular 7, Scroll, Drag
+
+* https://material.angular.io/cdk/scrolling/overview
+* https://material.angular.io/cdk/drag-drop/examples
 
 # Ver demo en:
 https://stackblitz.com/edit/br-angular7-ejemplo
